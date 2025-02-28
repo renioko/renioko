@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to my profile!
-My name's ** Renata Gasior**. Below you'll find a bunch of information abut myself. 
+My name's **Renata Gasior**. Below you'll find a bunch of information abut myself. 
 Feel free to contact me if you have any questions or suggestions.
 
 ### About me:
