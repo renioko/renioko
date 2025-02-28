@@ -5,7 +5,7 @@ Feel free to contact me if you have any questions or suggestions.
 
 ### About me:
 I'm coding from UK. I'm on a fascinating journey to become PRO Backend Developer. <br>
-I love coffe ☕, camping ⛺,  , collaborating with others 💫 and refactoring my code 🛠️. 
+I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my code 🛠️. 
 
 ## Junior Python Developer:
 
