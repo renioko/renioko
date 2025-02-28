@@ -4,7 +4,7 @@ My name's **Renata Gasior**. Below you'll find a bunch of information abut mysel
 Feel free to contact me if you have any questions or suggestions.
 
 ### About me:
-I'm coding from UK. I'm on a fascinating journey to become PRO Backend Developer. 
+I'm coding from UK. I'm on a fascinating journey to become PRO Backend Developer. <br>
 I love coffe ☕, camping ⛺,  , collaborating with others 💫 and refactoring my code 🛠️. 
 
 ## Junior Python Developer:
