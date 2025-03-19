@@ -11,7 +11,7 @@ I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my
 
 ### 🚀 What I'm working on
 
-- 🔭 Currently exploring reverse engineering and hacking things together @ MOOC Challenge for CFG
+- 🔭 Currently exploring SQL and usung Python in database management. 
 - 🌱 Learning more about Database designs and PostgreSQL.
 - 🪛 Putting together my portfolio project.
   
