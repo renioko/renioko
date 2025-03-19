@@ -23,7 +23,7 @@ I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my
 
 ### 💼 My Experience
 
-- 🧩 Team player at Intro to Python MOOC Challenge @ CodeFirstGirls 
+- 🧩 Team player at Intro to Coding MOOC Challenge @ CodeFirstGirls 
 - 🔎 Community Researcher for Ideas Alliance
 - 📝 Teacher (this expanded my soft skills)
 - 🎯 [Significant project or achievement] - yet to be completed 
