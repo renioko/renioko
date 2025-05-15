@@ -11,14 +11,15 @@ I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my
 
 ### 🚀 What I'm working on
 
-- 🔭 Currently exploring SQL and usung Python in database management. 
+- 🔭 Currently exploring PosgtreSQL and usung Python in database management. 
 - 🌱 Learning more about Database designs and PostgreSQL.
-- 🪛 Putting together my portfolio project.
+- 🪛 Putting together my portfolio project - MyMedTracker - regular updates, look up my project: https://github.com/renioko/MyMedTracker!
   
 ### 💡 Skills
 
 - **Programming Languages:** Python, SQL
-- **Frameworks & Tools:** Git, GitHub
+- **Frameworks & Tools:** Git, GitHub, PG Admin, SQLite Studio, WSL
+- **Databases:** SQLite, MySQL, PostgreSQL
 - **Other Skills:** Team-work, Communication, Creativity, Independence
 
 ### 💼 My Experience
@@ -26,7 +27,7 @@ I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my
 - 🧩 Team player at Intro to Coding MOOC Challenge @ CodeFirstGirls 
 - 🔎 Community Researcher for Ideas Alliance
 - 📝 Teacher (this expanded my soft skills)
-- 🎯 [Significant project or achievement] - yet to be completed 
+- 🎯 [Significant project or achievement] - finalist of Intro to Python - MOOC Challenge by CodeFirstGirls
 
 ### What do I do for fun:
 - ⚜️ I'm a scout leader - love to be part of a team, plan and organise activities, utilize my leadership skills. 
@@ -35,7 +36,7 @@ I love coffe ☕, camping ⛺, collaborating with others 💫 and refactoring my
 ## 📫 How to reach me
 
 - LinkedIn: https://www.linkedin.com/in/renata-gasior-09202432b/
-- Email: regasior@gmail.com
+- Email: renatta.gasior@gmail.com
 - GitHub: https://github.com/dashboard
 - Instagram ... to be added
 
